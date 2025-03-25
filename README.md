@@ -84,7 +84,7 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 
 ### NM Evaluation Results
 
-| **Class**       | **CMNeXt** Low | Mid. | High | **GeminiFusion** Low | Mid. | High | **MAGIC** Low | Mid. | High | **MAGIC++** Low | Mid. | High | **StitchFusion** Low | Mid. | High |
+| **Class**       | **CMNeXt** Low |  **CMNeXt** Mid. |  **CMNeXt** High | **GeminiFusion** Low |  **GeminiFusion** Mid. | **GeminiFusion** High | **MAGIC** Low | **MAGIC** Mid. |**MAGIC** High | **MAGIC++** Low |**MAGIC++** Mid. |**MAGIC++** High | **StitchFusion** Low |**StitchFusion** Mid. |**StitchFusion** High |
 |-----------------|---------------|------|------|----------------------|------|------|---------------|------|------|-----------------|------|------|----------------------|------|------|
 | Building        | 54.46         | 6.39 | 0    | 0                    | 0    | 0    | 45.88         | 28.22| 9.58 | 59.04           | 41.54| 16.42| 51.72                | 26.35| 3.84 |
 | Fence           | 12.11         | 4.88 | 1.27 | 0.21                 | 0    | 0    | 13.60         | 4.55 | 0.03 | 5.85            | 1.53 | 0.75 | 12.48                | 7.90 | 1.91 |
