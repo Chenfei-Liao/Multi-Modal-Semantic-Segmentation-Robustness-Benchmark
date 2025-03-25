@@ -41,7 +41,7 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 ### History of MMSS methods
 
 <div align="center">
-    <img src="Works.png" alt="History of MMSS Methods" width="600"/>
+    <img src="Works.png" alt="History of MMSS Methods" width="300"/>
 </div>
 
 
@@ -64,6 +64,13 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 | MemorySAM              | Arxiv2025      | ❌                                | ❌                                | ❌                      |
 
 <div align="left">
+
+## Framework
+
+<div align="center">
+    <img src="Framework.png" alt="Benchmark Framework" width="300"/>
+</div>
+
     
 ## Results
 
@@ -148,6 +155,8 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 
 
 </div>
+
+
 
 <div align="left">
     
