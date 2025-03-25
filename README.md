@@ -34,13 +34,16 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 ## Related Work
 
 
+
+
+</div>
+
 ### History of MMSS methods
+
 <div align="center">
-    <img src="Figure/Figure_works.png" alt="Overview" width="600"/>
+    <img src="Works.png" alt="History of MMSS Methods" width="600"/>
 </div>
 
-
-</div>
 
 ### Comparison of modality robustness across MMSS methods. RMM: Random-Missing Modality; EMM: Entire-Missing Modality; NM: Noisy Modality.
 
