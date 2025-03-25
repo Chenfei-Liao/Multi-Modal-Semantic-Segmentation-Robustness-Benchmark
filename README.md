@@ -29,7 +29,36 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 
 </div>
 
+<div align="left">
+    
+## Related Work
 
+
+### History of MMSS methods
+<div align="center">
+    <img src="Figure/Figure_works.png" alt="Overview" width="600"/>
+</div>
+
+
+</div>
+
+### Comparison of modality robustness across MMSS methods. RMM: Random-Missing Modality; EMM: Entire-Missing Modality; NM: Noisy Modality.
+
+| **Work**               | **Publication** | **RMM**  | **EMM**  | **NM**  |
+|------------------------|----------------|-----------------------------------|-----------------------------------|-------------------------|
+| MCubesNet              | CVPR2022       | ❌                                | ❌                                | ❌                      |
+| TokenFusion            | CVPR2022       | ❌                                | ❌                                | ❌                      |
+| CMXNeXt                | CVPR2023       | ❌                                | ❌                                | ❌                      |
+| GeminiFusion           | ICML2024       | ❌                                | ❌                                | ❌                      |
+| MAGIC                  | ECCV2024       | ❌                                | ✅                                | ✅                      |
+| Any2Seg                | ECCV2024       | ❌                                | ✅                                | ✅                      |
+| FPT                    | IV2024         | ❌                                | ✅                                | ✅                      |
+| MAGIC++                | Arxiv2024      | ❌                                | ✅                                | ✅                      |
+| MLE-SAM                | Arxiv2024      | ❌                                | ✅                                | ✅                      |
+| AnySeg                 | Arxiv2024      | ❌                                | ✅                                | ❌                      |
+| StitchFusion           | Arxiv2024      | ❌                                | ❌                                | ❌                      |
+| CAFuser                | RAL2025        | ❌                                | ❌                                | ❌                      |
+| MemorySAM              | Arxiv2025      | ❌                                | ❌                                | ❌                      |
 
 <div align="left">
     
