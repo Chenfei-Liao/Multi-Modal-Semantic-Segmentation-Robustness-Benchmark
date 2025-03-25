@@ -68,7 +68,7 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 ## Framework
 
 <div align="center">
-    <img src="Framework.png" alt="Benchmark Framework" width="300"/>
+    <img src="Framework.png" alt="Benchmark Framework" width="800"/>
 </div>
 
     
