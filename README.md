@@ -33,9 +33,6 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
     
 ## Related Work
 
-
-
-
 </div>
 
 ### History of MMSS methods
