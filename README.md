@@ -166,7 +166,7 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 
 🚩 2025/3/25 We release the first version of our souce code! 
 
-🚩 2025/4/3 Our paper is accepted by CVPR 2025 Workshop: TMM-OpenWorld!
+🚩 2025/4/3 Our paper has been accepted by CVPR 2025 Workshop: TMM-OpenWorld!
 
 ## Quick Start
 
