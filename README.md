@@ -48,7 +48,7 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 |------------------------|----------------|-----------------------------------|-----------------------------------|-------------------------|
 | MCubesNet              | CVPR2022       | ❌                                | ❌                                | ❌                      |
 | TokenFusion            | CVPR2022       | ❌                                | ❌                                | ❌                      |
-| CMXNeXt                | CVPR2023       | ❌                                | ❌                                | ❌                      |
+| CMNeXt                | CVPR2023       | ❌                                | ❌                                | ❌                      |
 | GeminiFusion           | ICML2024       | ❌                                | ❌                                | ❌                      |
 | MAGIC                  | ECCV2024       | ❌                                | ✅                                | ✅                      |
 | Any2Seg                | ECCV2024       | ❌                                | ✅                                | ✅                      |
