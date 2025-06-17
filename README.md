@@ -169,7 +169,11 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 🚩 2025/4/3 Our paper has been accepted by CVPR 2025 Workshop: TMM-OpenWorld!
 
 🚩 2025/4/9 Our paper has been selected as oral! (Top 6 papers)
+
+🚩 2025/6/16 Our paper has won the best paper award! (Top 1 paper)
+
 ## Quick Start
+
 
 The entire project is based on [DELIVER](https://github.com/jamycheung/DELIVER). 
 
