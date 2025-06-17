@@ -184,14 +184,12 @@ You only need to git clone [DELIVER](https://github.com/jamycheung/DELIVER), and
 
 If you find this project helpful, please consider citing the following paper:
 ```
-@misc{liao2025benchmarkingmultimodalsemanticsegmentation,
-      title={Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness}, 
-      author={Chenfei Liao and Kaiyu Lei and Xu Zheng and Junha Moon and Zhixiong Wang and Yixuan Wang and Danda Pani Paudel and Luc Van Gool and Xuming Hu},
-      year={2025},
-      eprint={2503.18445},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.18445}, 
+@inproceedings{liao2025benchmarking,
+  title={Benchmarking multi-modal semantic segmentation under sensor failures: Missing and noisy modality robustness},
+  author={Liao, Chenfei and Lei, Kaiyu and Zheng, Xu and Moon, Junha and Wang, Zhixiong and Wang, Yixuan and Paudel, Danda Pani and Van Gool, Luc and Hu, Xuming},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1576--1586},
+  year={2025}
 }
 ```
 
