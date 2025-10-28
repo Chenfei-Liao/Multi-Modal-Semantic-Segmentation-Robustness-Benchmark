@@ -35,32 +35,53 @@ This work provides the first dedicated benchmark for MMSS robustness, offering n
 
 </div>
 
+<div align="left">
+    
 ### History of MMSS methods
+
+</div>
 
 <div align="center">
     <img src="Works.png" alt="History of MMSS Methods" width="300"/>
 </div>
 
 
-### Comparison of modality robustness across MMSS methods. RMM: Random-Missing Modality; EMM: Entire-Missing Modality; NM: Noisy Modality.
-
-| **Work**               | **Publication** | **RMM**  | **EMM**  | **NM**  |
-|------------------------|----------------|-----------------------------------|-----------------------------------|-------------------------|
-| MCubesNet              | CVPR2022       | ❌                                | ❌                                | ❌                      |
-| TokenFusion            | CVPR2022       | ❌                                | ❌                                | ❌                      |
-| CMNeXt                | CVPR2023       | ❌                                | ❌                                | ❌                      |
-| GeminiFusion           | ICML2024       | ❌                                | ❌                                | ❌                      |
-| MAGIC                  | ECCV2024       | ❌                                | ✅                                | ✅                      |
-| Any2Seg                | ECCV2024       | ❌                                | ✅                                | ✅                      |
-| FPT                    | IV2024         | ❌                                | ✅                                | ✅                      |
-| MAGIC++                | Arxiv2024      | ❌                                | ✅                                | ✅                      |
-| MLE-SAM                | Arxiv2024      | ❌                                | ✅                                | ✅                      |
-| AnySeg                 | Arxiv2024      | ❌                                | ✅                                | ❌                      |
-| StitchFusion           | Arxiv2024      | ❌                                | ❌                                | ❌                      |
-| CAFuser                | RAL2025        | ❌                                | ❌                                | ❌                      |
-| MemorySAM              | Arxiv2025      | ❌                                | ❌                                | ❌                      |
-
 <div align="left">
+    
+    
+### MMSS Methods Summary
+
+</div>
+
+
+<div align="center">
+    
+**RMM**: Random-Missing Modality | **EMM**: Entire-Missing Modality | **NM**: Noisy Modality
+
+| Work | Publication | Key Point | RMM | EMM | NM |
+|------|-------------|-----------|-----|-----|----|
+| MCubesNet | CVPR2022 | Multi-level concatenation fusion | ❌ | ❌ | ❌ |
+| TokenFusion | CVPR2022 | Fine-grained token-based fusion | ❌ | ❌ | ❌ |
+| CMX | TITS2023 | Cross-modal feature rectification | ❌ | ❌ | ❌ |
+| CMNeXt | CVPR2023 | Self-query hub mechanism | ❌ | ❌ | ❌ |
+| GeminiFusion | ICML2024 | Modality-agnostic dense fusion | ❌ | ❌ | ❌ |
+| MMSFormer | OJSP2024 | Transformer-based fusion | ❌ | ❌ | ❌ |
+| MAGIC | ECCV2024 | Similarity-based modality selection | ❌ | ✅ | ✅ |
+| Any2Seg | ECCV2024 | MVLM knowledge distillation | ❌ | ✅ | ✅ |
+| FPT | IV2024 | Fourier prompt tuning | ❌ | ✅ | ✅ |
+| MAGIC++ | Arxiv2024 | Multi-scale hierarchical arbitration | ❌ | ✅ | ✅ |
+| MLE-SAM | Arxiv2024 | Mixture of LoRA experts | ❌ | ✅ | ✅ |
+| AnySeg | Arxiv2024 | Cross-modal distillation | ❌ | ✅ | ❌ |
+| StitchFusion | Arxiv2024 | Dynamic modality weaving | ❌ | ❌ | ❌ |
+| CPAL | TCSVT | Cross-prompting with LoRA adapters | ❌ | ❌ | ❌ |
+| CAFuser | RAL2025 | Condition-aware modal fusion | ❌ | ❌ | ❌ |
+| MemorySAM | Arxiv2025 | Memory-enhanced segmentation | ❌ | ❌ | ❌ |
+| RMMSS | Arxiv2025 | Prototype-regularized robustness | ✅ | ✅ | ✅ |
+| CHARM | Arxiv2025 | Collaborative modality harmonization | ❌ | ✅ | ❌ |
+| OmniSegmentor | NeurIPS2025 | Random modality-pairing pretraining | ❌ | ✅ | ✅ |
+| UniMRSeg | NeurIPS2025 | Hierarchical three-stage compensation | ❌ | ✅ | ✅ |
+
+</div>
 
 ## Framework
 
